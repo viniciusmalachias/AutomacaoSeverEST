@@ -14,7 +14,7 @@ ________________________________________________________________________________
 1. Clonar o Repositório
 Primeiro, abra o terminal ou prompt de comando e execute o seguinte comando para clonar o repositório na sua máquina:
 
-git clone https://github.com/usuario/projeto-automacao-cypress.git
+git clone https://github.com/viniciusmalachias/AutomacaoSeverEST
 
 
 2. Acessar o Diretório do Projeto
