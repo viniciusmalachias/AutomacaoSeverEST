@@ -4,7 +4,7 @@ class LoginPage {
   }
 
   fillValidUsername() {
-    cy.get('[data-testid="email"]').type('TesteViniQa3@gmail.com');
+    cy.get('[data-testid="email"]').type('TesteViniQa5@gmail.com');
   }
   
   fillInvalidUsername() {
@@ -20,8 +20,8 @@ class LoginPage {
   }
 
   fillRegistrationFields() {
-    cy.get('[data-testid="nome"]').type('ViniQA3')
-    cy.get('[data-testid="email"]').type('TesteViniQa3@gmail.com')
+    cy.get('[data-testid="nome"]').type('ViniQA5')
+    cy.get('[data-testid="email"]').type('TesteViniQa5@gmail.com')
     cy.get('[data-testid="password"]').type('Brasil70@')
   }
 
