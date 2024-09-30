@@ -20,7 +20,7 @@ git clone https://github.com/viniciusmalachias/AutomacaoSeverEST
 2. Acessar o Diretório do Projeto
 Após clonar o repositório, navegue até a pasta do projeto:
 
-cd projeto-automacao-cypress
+cd automacao Serverest
 
 
 3. Instalar as Dependências
